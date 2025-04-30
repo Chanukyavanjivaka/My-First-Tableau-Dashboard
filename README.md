@@ -1,5 +1,6 @@
 # Omega Hr Insights Dashboard
 
+https://public.tableau.com/app/profile/chanukya.vanjivaka/viz/omega_hr_dashboard/OmegaHRInsightsDashboard
 
 The Omega HR Insights Dashboard is a comprehensive interactive Tableau dashboard designed to streamline and enhance Human Resource (HR) data analysis. Built with a user-centric approach, this dashboard allows HR professionals, analysts, and business leaders to monitor key workforce metrics, visualize trends, and make informed strategic decisions.
 
